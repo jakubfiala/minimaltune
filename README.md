@@ -3,6 +3,8 @@ minimaltune
 
 Lightweight, but very accurate guitar tuner for OSX (compilable in Windows), built in Processing.
 
+To run, get `minimaltune.app` and run it as usual.
+
 Includes two modes:
 + *chromatic,* which detects what string you're playing and employs the analog-style display
 + *notes,* in which you play the string, click the corresponding string button and tune by ear.
